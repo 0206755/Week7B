@@ -1,0 +1,13 @@
+<html>
+<head>
+</head>
+<body>
+<ul>
+    <li><a href="index.php">Index Page</a></li>
+    <li>Display All Movies</li>
+    <li>Display All Movies created by Marvel Studios</li>
+    <li>Display All Movies created after 2010</li>
+    <li>Display all X-Men Films</li>
+</ul>
+</body>
+    </html>
