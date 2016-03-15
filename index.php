@@ -5,7 +5,7 @@
     <title>Home Page - Films</title>
 </head>
 <body>
-<h1>Home pager for movies stuff</h1>
+<h1>Home page for movies stuff</h1>
 <?php
 include("header.html");
 ?>
